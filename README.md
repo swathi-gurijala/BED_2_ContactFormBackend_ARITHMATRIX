@@ -76,7 +76,10 @@ Copy code
 }
 
 ### ✅ Success Response (Postman)
+### Success Response
 ![Success Response](images/success_response.png)
+
+
 
 
 Error Response (400):
@@ -88,11 +91,13 @@ Copy code
   "error": "Email is required and must be valid"
 }
 
-### ❌ Failure Response (Postman)
+### Failure Response
 ![Failure Response](images/failure_response.png)
 
-### 📂 MongoDB Atlas – Stored Submission
-![MongoDB Document](images/mongodb_submission.png)
+### MongoDB Submission
+![MongoDB Submission](images/mongodb_submission.png)
+
+
 2. Get All Submissions
 URL: /api/contact
 
