@@ -1,0 +1,18 @@
+{
+  "name": "bed_2_contactformbackend_arithmatrix",
+  "version": "1.0.0",
+  "description": "Task 2: Contact Form Backend (Accept form data and send via email)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
